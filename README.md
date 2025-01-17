@@ -31,8 +31,7 @@ The **News Application** is a web-based platform that fetches real-time news art
 
 ### Category View
 
-![Image](https://github.com/user-attachments/assets/ae12702b-d9a9-4630-8152-1f186b4936ec)
-
+![Image](https://github.com/user-attachments/assets/aa337e66-9db4-4b5a-9879-91c4450e083d)
 *Browse news articles by selected categories.*
 
 ### Article Preview
